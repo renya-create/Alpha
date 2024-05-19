@@ -4,12 +4,6 @@
 
 https://hitotsu-eye.com/python_02/
 
-以下は実行した際の動画です。（一部編集でカットしています）
-
-https://github.com/renya-create/Alpha/assets/83385126/3fc7073e-7a6a-440c-8ecc-cfaf9a3bdcdb
-
-
-
 ## 概要
 Pythonのtkinterライブラリを使用したオセロゲーム。
 
@@ -51,6 +45,10 @@ pandasを用いてオセロ連盟が公開しているオセロの棋譜デー�
 現在の盤面が入力データとし、その時に打たれた手を教師データとする。
 
 ニューラルネットワークのモデルを作成し、学習させたい。
+
+以下は実行した際の動画です。（一部編集でカットしています）
+
+https://github.com/renya-create/Alpha/assets/83385126/3fc7073e-7a6a-440c-8ecc-cfaf9a3bdcdb
 
 
 
