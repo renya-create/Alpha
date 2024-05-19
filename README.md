@@ -46,6 +46,7 @@ pandasを用いてオセロ連盟が公開しているオセロの棋譜デー�
 
 ニューラルネットワークのモデルを作成し、学習させたい。
 
+
 以下は実行した際の動画です。（一部編集でカットしています）
 
 https://github.com/renya-create/Alpha/assets/83385126/3fc7073e-7a6a-440c-8ecc-cfaf9a3bdcdb
