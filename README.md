@@ -1,6 +1,6 @@
 # Alpha Interview Assignment (1)
 
-ほとんど以下のサイトのコードを理解しながら写して、UIを少し変更した程度です。
+ほとんど以下のサイトのコードを理解しながら写して、UIを少し変更しただけです。
 
 https://hitotsu-eye.com/python_02/
 
@@ -20,6 +20,12 @@ python3とnumpyがインストールされている環境でothello.pyを実行�
 ゲーム終了時の勝敗判定
 
 白と黒の現在の個数の表示
+
+以下実行した際の動画のリンクです。
+(途中部分はカットしています。)
+
+https://github.com/renya-create/Alpha/assets/83385126/18d7fde4-86a9-4a8e-8787-d1b0670af8af
+
 
 ### この後実装してみようと思うこと
 
