@@ -21,7 +21,7 @@ python3とnumpyがインストールされている環境でothello.pyを実行�
 
 白と黒の現在の個数の表示
 
-以下実行した際の動画のリンクです。
+以下実行した際の動画です。
 (途中部分はカットしています。)
 
 https://github.com/renya-create/Alpha/assets/83385126/18d7fde4-86a9-4a8e-8787-d1b0670af8af
